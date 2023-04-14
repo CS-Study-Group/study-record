@@ -17,7 +17,7 @@
 <br/>
   
 <h3 align="center">🕟 스터디 만남 시간</h3>
-<p align="center">금요일 오후 7시부터 2시간 정도로 계획중</p>
+<p align="center">수요일 오후 1시부터 2시간 정도로 계획중</p>
 
 <br/>
 <br/>  
