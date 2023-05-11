@@ -180,3 +180,12 @@ P2의 작업을 끝내도
 - 교착상태관련하여 무시를 비롯 아무대책을 취하지 않는 접근법
 - 예시로 Unix와 Window등의 거의 모든 운영체제에서 이방법을 채택
     - 의심가는 스레드를 종료시키거나 시스템 재시작
+
+
+## 출처
+
+[https://www.youtube.com/watch?v=zQDNXklvdUw&t=656s](https://www.youtube.com/watch?v=zQDNXklvdUw&t=656s)
+
+[https://velog.io/@passion_man/운영체제-7.-교착상태](https://velog.io/@passion_man/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-7.-%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C)
+
+[https://itwiki.kr/w/교착상태](https://itwiki.kr/w/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C)
