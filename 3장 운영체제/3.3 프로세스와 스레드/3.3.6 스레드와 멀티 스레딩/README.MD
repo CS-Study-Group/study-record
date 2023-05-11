@@ -1,0 +1,1 @@
+[스레드와 멀티 스레딩](https://brotherstone.tistory.com/199)
