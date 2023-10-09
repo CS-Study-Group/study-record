@@ -138,10 +138,10 @@
 
 | 10주차 (2023.06.16 ~ 2023.06.21) | 이름 | 링크 |
 | --- | --- | --- |
-| 2.3 네트워크 기기 | 이우석 | [이동]() |
-| 2.4 IP 주소 | 최태윤 | [이동]() |
-| 2.5.1 - 2.5.3 HTTP/1.0 HTTP/1.1 HTTP/2 | 오형석 | [이동]() |
-| 2.5.4 - 2.5.5 HTTPS HTTP/3 | 김훈섭 | [이동]() |
+| 2.3 네트워크 기기 | 이우석 | [이동](https://velog.io/@wi8tkf/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EA%B8%B0) |
+| 2.4 IP 주소 | 최태윤 | [이동](https://github.com/CS-Study-Group/study-record/tree/main/2%EC%9E%A5%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2.4%20IP%20%EC%A3%BC%EC%86%8C) |
+| 2.5.1 - 2.5.3 HTTP/1.0 HTTP/1.1 HTTP/2 | 오형석 | [이동](https://brotherstone.tistory.com/205) |
+| 2.5.4 - 2.5.5 HTTPS HTTP/3 | 김훈섭 | [이동](https://hoonsb.tistory.com/80) |
 
 <input type="hidden" value="rebase merge test"></input>
 
